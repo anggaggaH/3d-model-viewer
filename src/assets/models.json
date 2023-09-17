@@ -1,0 +1,5 @@
+{
+	"hammer": "https://cdn.jsdelivr.net/gh/Sean-Bradley/React-Three-Fiber-Boilerplate@annotations/public/models/hammer.glb",
+	"drill": "https://cdn.jsdelivr.net/gh/Sean-Bradley/React-Three-Fiber-Boilerplate@annotations/public/models/drill.glb",
+	"tapeMeasure": "https://cdn.jsdelivr.net/gh/Sean-Bradley/React-Three-Fiber-Boilerplate@annotations/public/models/tapeMeasure.glb"
+}
